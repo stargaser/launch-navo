@@ -1,0 +1,13 @@
+python>=3.8
+numpy
+astropy>=4.1
+matplotlib
+requests
+jupyterlab>=2.0
+scipy
+aplpy
+astroquery
+pyvo>=1.1
+nbgitpuller
+nbzip
+jupyter-archive

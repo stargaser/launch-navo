@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter nbextension install --py nbzip
+jupyter nbextension enable --py nbzip
+jupyter serverextension enable --py nbgitpuller --sys-prefix
+jupyter serverextension enable --py nbzip --sys-prefix
+jupyter serverextension enable --py jupyter_archive
