@@ -1,9 +1,10 @@
-python>=3.8
 numpy
-astropy>=4.1
+astropy>=4.2
 matplotlib
 requests
-jupyterlab>=2.0
+jupyterlab>=2.2
+notebook
+ipython
 scipy
 aplpy
 astroquery
