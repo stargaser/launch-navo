@@ -3,6 +3,14 @@ astropy>=4.2
 matplotlib
 requests
 scipy
+scikit-image
+pandas
+pytest
+asdf
+gwcs
+ccdproc
+photutils
+specutils
 aplpy
 astroquery
 pyvo>=1.1
