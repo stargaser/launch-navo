@@ -6,6 +6,12 @@ scipy
 scikit-image
 pandas
 pytest
+beautifulsoup4
+keyring
+html5lib
+xlwt
+xlrd
+requests
 asdf
 gwcs
 ccdproc
@@ -16,4 +22,5 @@ astroquery
 pyvo>=1.1
 nbgitpuller
 nbzip
+jupyter-offlinenotebook
 jupyter-archive
