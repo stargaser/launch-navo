@@ -2,8 +2,11 @@
 
 
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install jupyter-offlinenotebook
 jupyter nbextension install --py nbzip
 jupyter nbextension enable --py nbzip
+jupyter nbextension install --py jupyter_offlinenotebook --sys-prefix
+jupyter nbextension enable --py jupyter_offlinenotebook --sys-prefix
 jupyter serverextension enable --py nbgitpuller --sys-prefix
 jupyter serverextension enable --py nbzip --sys-prefix
-jupyter serverextension enable --py jupyter_archive
+jupyter serverextension enable --py jupyter_offlinenotebook --sys-prefix
