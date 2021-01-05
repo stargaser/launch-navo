@@ -6,6 +6,7 @@ scipy
 aplpy
 astroquery
 pyvo>=1.1
+jupyter-offlinenotebook
 nbgitpuller
 nbzip
 jupyter-archive
