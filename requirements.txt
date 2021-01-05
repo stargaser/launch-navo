@@ -6,6 +6,7 @@ scipy
 scikit-image
 pandas
 pytest
+tornado>=6.1
 beautifulsoup4
 keyring
 html5lib
