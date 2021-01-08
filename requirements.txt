@@ -17,7 +17,7 @@ asdf
 gwcs
 ccdproc
 photutils
-specutils
+specutils>=1.1.1
 aplpy
 astroquery
 pyvo>=1.1
@@ -25,3 +25,4 @@ nbgitpuller
 nbzip
 jupyter-offlinenotebook
 jupyter-archive
+ipympl
