@@ -10,5 +10,5 @@ that the Binder session will time out after ten minutes of inactivity.
 
 NASA-NAVO: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stargaser/workshop-env/navo-env?urlpath=git-pull?repo=https://github.com/NASA-NAVO/navo-workshop)
 
-Astropy: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stargaser/workshop-env/astropy-env/?urlpath=git-pull?repo=https://github.com/astropy/astropy-workshop%26amp%3Bbranch=main)
+Astropy: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stargaser/workshop-env/astropy-env/?urlpath=git-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252Fastropy%252Fastropy-workshop%26branch%3Dmain)
 
