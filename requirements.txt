@@ -15,7 +15,8 @@ xlrd
 requests
 asdf
 gwcs
-ccdproc
+ccdproc>=2.2
+bottleneck
 photutils
 specutils>=1.1.1
 aplpy
