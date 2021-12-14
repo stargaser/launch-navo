@@ -1,5 +1,5 @@
 numpy
-astropy>=4.2
+astropy>=5.0
 matplotlib
 requests
 scipy
