@@ -1,5 +1,5 @@
 numpy
-astropy>=4.2
+astropy>=5.0
 matplotlib
 requests
 scipy
@@ -20,7 +20,7 @@ bottleneck
 photutils
 specutils>=1.1.1
 aplpy
-astroquery
+astroquery>=0.4.4
 pyvo>=1.1
 nbgitpuller
 nbzip
